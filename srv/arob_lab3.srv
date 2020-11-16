@@ -1,0 +1,8 @@
+string file_name
+uint16 size
+float32 threshold
+---
+uint16 rows
+uint16 cols
+uint16[] grid
+

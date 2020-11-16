@@ -1,0 +1,8 @@
+pgm_file: "/home/osboxes/catkin_ws/src/AROB_lab3/world/willow-full.pgm"
+size: 5
+threshold: 0.5
+x_f: 44
+y_f: -88
+x_0: 75
+y_0: -95
+
